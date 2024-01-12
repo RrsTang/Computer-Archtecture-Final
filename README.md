@@ -1,7 +1,7 @@
 $$
 \begin{array}{|c|c|}
     \hline
-        论文题目 & Bingo\ Spatial\ Data\ Prefetcher \\
+        论文题目 & \mathrm{Bingo\ Spatial\ Data\ Prefetcher} \\
         \hline
         选自 & 2019\ IEEE\ HPCA \\
         \hline
