@@ -1,7 +1,8 @@
 $$
+\mathrm{
 \begin{array}{|c|c|}
     \hline
-        论文题目 & \mathrm{Bingo\ Spatial\ Data\ Prefetcher} \\
+        论文题目 & Bingo\ Spatial\ Data\ Prefetcher \\
         \hline
         选自 & 2019\ IEEE\ HPCA \\
         \hline
@@ -12,4 +13,5 @@ $$
         班级 & 21级计科大数据班 \\
         \hline
 \end{array}
+}
 $$
